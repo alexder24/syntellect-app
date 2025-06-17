@@ -1,6 +1,7 @@
 # Syntellect Test App: React Controls Demo
 
-Тестовое задание для компании Syntellect
+Тестовое задание для компании Syntellect.
+
 Приложение, реализующее два кастомных контрола на React с использованием MobX и MVVM архитектуры.
 
 ## Функционал
